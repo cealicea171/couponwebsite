@@ -1,0 +1,33 @@
+h1 {
+  color: white;
+  text-align: center;
+}
+
+html {
+  text-align: center;
+  background-image: url(photos/background.gif);
+  background-size: cover;
+}
+
+a {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px
+}
+
+a:hover {
+  background-color: pink;
+}
+
+p {
+  color: white;
+}
+
+form {
+  color: white;
+}
